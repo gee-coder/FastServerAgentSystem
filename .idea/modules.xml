@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agent.iml" filepath="$PROJECT_DIR$/agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent-client/agent-client.iml" filepath="$PROJECT_DIR$/agent-client/agent-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent-common/agent-common.iml" filepath="$PROJECT_DIR$/agent-common/agent-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent-server/agent-server.iml" filepath="$PROJECT_DIR$/agent-server/agent-server.iml" />
+    </modules>
+  </component>
+</project>
